@@ -1,6 +1,6 @@
-# CodeAlpha Cyber Security Internship
+# Cyber Security Project 
 
-This repository contains the cybersecurity projects completed during the CodeAlpha Cyber Security Internship.
+This repository contains my personal cybersecurity projects 
 
 ## Projects
 
